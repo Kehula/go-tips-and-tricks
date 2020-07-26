@@ -3,7 +3,7 @@
 Различные полезные примеры кода
 
 <b>статьи для прочтения</b><p>
-
+<p>Часть 1</p>
 <li>https://habrahabr.ru/company/mailru/blog/314804/ - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду
 <li>https://habrahabr.ru/post/306914/ - Разбираемся в Go: пакет io
 <li>https://habrahabr.ru/post/272383/ - постулаты go. Маленькая статья об основными принципах языка
@@ -14,6 +14,7 @@
 <li>https://habrahabr.ru/post/276981/ - Краш-курс по интерфейсам в Go
 <li>http://golang-book.ru
 <hr noshade color="black">
+<p>Часть 2</p>
 <li>https://habrahabr.ru/post/141853/ - как работают горутины
 <li>https://habrahabr.ru/post/308070/ - как работают каналы
 <li>https://habrahabr.ru/post/333654/ - как работает планировщик ( https://rakyll.org/scheduler/ )
