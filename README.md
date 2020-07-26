@@ -13,11 +13,7 @@
 <li>https://habrahabr.ru/post/325468/ - как не наступать на грабли в Go
 <li>https://habrahabr.ru/post/276981/ - Краш-курс по интерфейсам в Go
 <li>http://golang-book.ru
-<br>hr {
-  border: none;
-  color: black;
-  height: 5px;
-}</br>
+<br><hr noshade color="black"></br>
 <li>https://habrahabr.ru/post/141853/ - как работают горутины
 <li>https://habrahabr.ru/post/308070/ - как работают каналы
 <li>https://habrahabr.ru/post/333654/ - как работает планировщик ( https://rakyll.org/scheduler/ )
