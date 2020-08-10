@@ -11,7 +11,7 @@ https://play.golang.org/ - <b>онлайн площадка для теста к
 <li><b>done</b> https://habrahabr.ru/post/272383/ - постулаты go. Маленькая статья об основными принципах языка
 <li><b>done</b> https://habrahabr.ru/company/mailru/blog/301036/ - лучшие практики go
 <li><b>done</b> https://habrahabr.ru/post/308198/ - организация кода в go
-<li>https://habrahabr.ru/post/339192/ - Зачем в Go амперсанд и звёздочка (& и *)
+<li><b>done</b> https://habrahabr.ru/post/339192/ - Зачем в Go амперсанд и звёздочка (& и *)
 <li>https://habrahabr.ru/post/325468/ - как не наступать на грабли в Go
 <li>https://habrahabr.ru/post/276981/ - Краш-курс по интерфейсам в Go
 <li>http://golang-book.ru
