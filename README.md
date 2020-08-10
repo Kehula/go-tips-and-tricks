@@ -9,7 +9,7 @@ https://play.golang.org/ - <b>онлайн площадка для теста к
 <li><b>done</b> https://habrahabr.ru/company/mailru/blog/314804/ - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду
 <li><b>done</b> https://habrahabr.ru/post/306914/ - Разбираемся в Go: пакет io
 <li><b>done</b> https://habrahabr.ru/post/272383/ - постулаты go. Маленькая статья об основными принципах языка
-<li>https://habrahabr.ru/company/mailru/blog/301036/ - лучшие практики go
+<li><b>done</b> https://habrahabr.ru/company/mailru/blog/301036/ - лучшие практики go
 <li>https://habrahabr.ru/post/308198/ - организация кода в go
 <li>https://habrahabr.ru/post/339192/ - Зачем в Go амперсанд и звёздочка (& и *)
 <li>https://habrahabr.ru/post/325468/ - как не наступать на грабли в Go
