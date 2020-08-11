@@ -20,4 +20,4 @@ https://play.golang.org/ - <b>онлайн площадка для теста к
 <li><b>done</b> https://habrahabr.ru/post/141853/ - как работают горутины
 <li><b>done</b> https://habrahabr.ru/post/308070/ - как работают каналы
 <li><b>done</b> https://habrahabr.ru/post/333654/ - как работает планировщик ( https://rakyll.org/scheduler/ )
-<li>https://habrahabr.ru/post/271789/ - танцы с мютексами
+<li><b>done</b> https://habrahabr.ru/post/271789/ - танцы с мютексами
