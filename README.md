@@ -14,7 +14,7 @@ https://play.golang.org/ - <b>онлайн площадка для теста к
 <li><b>done</b> https://habrahabr.ru/post/339192/ - Зачем в Go амперсанд и звёздочка (& и *)
 <li><b>done</b> https://habrahabr.ru/post/325468/ - как не наступать на грабли в Go
 <li><b>done</b> https://habrahabr.ru/post/276981/ - Краш-курс по интерфейсам в Go
-<li>http://golang-book.ru
+<li><b>done</b> http://golang-book.ru
 <hr noshade color="black">
 <p>Часть 2</p>
 <li>https://habrahabr.ru/post/141853/ - как работают горутины
