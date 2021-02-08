@@ -21,3 +21,7 @@ https://play.golang.org/ - <b>онлайн площадка для теста к
 <li><b>done</b> https://habrahabr.ru/post/308070/ - как работают каналы
 <li><b>done</b> https://habrahabr.ru/post/333654/ - как работает планировщик ( https://rakyll.org/scheduler/ )
 <li><b>done</b> https://habrahabr.ru/post/271789/ - танцы с мютексами
+
+
+генератор кода для маршалинга/анмаршалинга json
+https://github.com/mailru/easyjson
